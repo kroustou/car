@@ -1,0 +1,7 @@
+# Car.py
+
+I am currently searching for a used car in car.gr.
+
+Sometimes you need to search for more than a model when looking for a used car.
+Thats why I made this script. One declares the generic filters and then the
+models, then by running the script voila. A browser window opens with the results.
