@@ -4,4 +4,5 @@ I am currently searching for a used car in car.gr.
 
 Sometimes you need to search for more than a model when looking for a used car.
 Thats why I made this script. One declares the generic filters and then the
-models, then by running the script voila. A browser window opens with the results.
+models (make, name and registartion year). Once the script has finished VOILA!
+A new browser window opens with the results and all the models gathered together.
